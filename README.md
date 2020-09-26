@@ -5,4 +5,6 @@ This project is attempt to create Battery Management System based on Linear Tech
 - LTC3300-2 as Battery Balancer System
 - LTC6804-2 as Battery Monitor System
 
+Auxiliary chip LTC6820 provides isoSPI interface for LTC3300-2
+
 Copyright by Tesla Telecom ltd. and Linear Technology
